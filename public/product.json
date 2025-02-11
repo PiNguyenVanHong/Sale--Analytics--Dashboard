@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Rompi Berkancing",
+      "price": 119.99,
+      "stock": 25,
+      "sold": 320,
+      "isActive": true,
+      "thumbnail": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rompi Berkancing",
+      "price": 123.99,
+      "stock": 22,
+      "sold": 315,
+      "isActive": false,
+      "thumbnail": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rompi Berkancing",
+      "price": 129.99,
+      "stock": 28,
+      "sold": 310,
+      "isActive": true,
+      "thumbnail": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rompi Berkancing",
+      "price": 134.99,
+      "stock": 24,
+      "sold": 300,
+      "isActive": false,
+      "thumbnail": "4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rompi Berkancing",
+      "price": 140.99,
+      "stock": 26,
+      "sold": 295,
+      "isActive": true,
+      "thumbnail": "5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rompi Berkancing",
+      "price": 145.99,
+      "stock": 20,
+      "sold": 290,
+      "isActive": false,
+      "thumbnail": "1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Rompi Berkancing",
+      "price": 150.99,
+      "stock": 27,
+      "sold": 285,
+      "isActive": true,
+      "thumbnail": "2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rompi Berkancing",
+      "price": 156.99,
+      "stock": 30,
+      "sold": 280,
+      "isActive": false,
+      "thumbnail": "3.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rompi Berkancing",
+      "price": 161.99,
+      "stock": 22,
+      "sold": 275,
+      "isActive": true,
+      "thumbnail": "4.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Rompi Berkancing",
+      "price": 167.99,
+      "stock": 29,
+      "sold": 270,
+      "isActive": false,
+      "thumbnail": "5.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Rompi Berkancing",
+      "price": 173.99,
+      "stock": 23,
+      "sold": 265,
+      "isActive": true,
+      "thumbnail": "1.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Rompi Berkancing",
+      "price": 179.99,
+      "stock": 28,
+      "sold": 260,
+      "isActive": false,
+      "thumbnail": "2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Rompi Berkancing",
+      "price": 185.99,
+      "stock": 24,
+      "sold": 255,
+      "isActive": true,
+      "thumbnail": "3.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Rompi Berkancing",
+      "price": 191.99,
+      "stock": 27,
+      "sold": 250,
+      "isActive": false,
+      "thumbnail": "4.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Rompi Berkancing",
+      "price": 196.99,
+      "stock": 21,
+      "sold": 245,
+      "isActive": true,
+      "thumbnail": "5.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Rompi Berkancing",
+      "price": 202.99,
+      "stock": 25,
+      "sold": 240,
+      "isActive": false,
+      "thumbnail": "1.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Rompi Berkancing",
+      "price": 209.99,
+      "stock": 26,
+      "sold": 235,
+      "isActive": true,
+      "thumbnail": "2.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Rompi Berkancing",
+      "price": 215.99,
+      "stock": 30,
+      "sold": 230,
+      "isActive": false,
+      "thumbnail": "3.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Rompi Berkancing",
+      "price": 221.99,
+      "stock": 29,
+      "sold": 225,
+      "isActive": true,
+      "thumbnail": "4.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Rompi Berkancing",
+      "price": 228.99,
+      "stock": 28,
+      "sold": 220,
+      "isActive": false,
+      "thumbnail": "5.jpg"
+    }
+  ]
+  

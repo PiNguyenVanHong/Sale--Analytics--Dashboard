@@ -1,0 +1,14 @@
+{
+  "title": "Conversation Rate",
+  "value": "4.55%",
+  "change": {
+    "value": "0.5%",
+    "upto": "up"
+  },
+  "details": [
+    { "title": "Product views", "percentage": "15%", "value": "6,545" },
+    { "title": "Add to cart", "percentage": "8%", "value": "3,491" },
+    { "title": "Checkout initiated", "percentage": "4%", "value": "1,746" },
+    { "title": "Completed purchases", "percentage": "2.75%", "value": "1,200" }
+  ]
+}

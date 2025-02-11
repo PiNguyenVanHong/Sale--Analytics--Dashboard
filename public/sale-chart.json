@@ -1,0 +1,30 @@
+{
+  "title": "Overall Sales",
+  "value": "$83,125",
+  "change": {
+    "value": "7.7%",
+    "upto": "up"
+  },
+  "filters": [{ "title": "All Products" }, { "title": "All Categories" }],
+  "datas": {
+    "periods": ["This period", "Last period"],
+    "values": [
+      { "date": "2024-08-01", "netSales": { "thisPeriod": 15000, "lastPeriod": 10000 } },
+      { "date": "2024-08-03", "netSales": { "thisPeriod": 16000, "lastPeriod": 11000 } },
+      { "date": "2024-08-05", "netSales": { "thisPeriod": 17000, "lastPeriod": 12000 } },
+      { "date": "2024-08-07", "netSales": { "thisPeriod": 18000, "lastPeriod": 13000 } },
+      { "date": "2024-08-09", "netSales": { "thisPeriod": 19000, "lastPeriod": 14000 } },
+      { "date": "2024-08-11", "netSales": { "thisPeriod": 20000, "lastPeriod": 15000 } },
+      { "date": "2024-08-13", "netSales": { "thisPeriod": 21000, "lastPeriod": 15000 } },
+      { "date": "2024-08-15", "netSales": { "thisPeriod": 22000, "lastPeriod": 16000 } },
+      { "date": "2024-08-17", "netSales": { "thisPeriod": 23000, "lastPeriod": 17000 } },
+      { "date": "2024-08-19", "netSales": { "thisPeriod": 24000, "lastPeriod": 18000 } },
+      { "date": "2024-08-21", "netSales": { "thisPeriod": 25000, "lastPeriod": 19000 } },
+      { "date": "2024-08-23", "netSales": { "thisPeriod": 24000, "lastPeriod": 18000 } },
+      { "date": "2024-08-25", "netSales": { "thisPeriod": 23000, "lastPeriod": 17000 } },
+      { "date": "2024-08-27", "netSales": { "thisPeriod": 22000, "lastPeriod": 16000 } },
+      { "date": "2024-08-29", "netSales": { "thisPeriod": 21000, "lastPeriod": 15000 } },
+      { "date": "2024-08-31", "netSales": { "thisPeriod": 20000, "lastPeriod": 14000 } }
+    ]
+  }
+}

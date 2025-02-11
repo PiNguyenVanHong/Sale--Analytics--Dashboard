@@ -1,0 +1,42 @@
+[
+    {
+      "title": "New Net Income",
+      "value": "$53,765",
+      "change": {
+        "value": "10.5%",
+        "upto": "up"
+      },
+      "comparison": "+$2,156",
+      "icon": "Coins"
+    },
+    {
+      "title": "Average Sales",
+      "value": "$12,680",
+      "change": {
+        "value": "3.4%",
+        "upto": "up"
+      },
+      "comparison": "+$2,156",
+      "icon": "ChartScatter"
+    },
+    {
+      "title": "Total Order",
+      "value": "11,294",
+      "change": {
+        "value": "0.5%",
+        "upto": "down"
+      },
+      "comparison": "+1,450",
+      "icon": "ShoppingBag"
+    },
+    {
+      "title": "Impression",
+      "value": "456K",
+      "change": {
+        "value": "15.2%",
+        "upto": "down"
+      },
+      "comparison": "-89.4K",
+      "icon": "Eye"
+    }
+  ]
